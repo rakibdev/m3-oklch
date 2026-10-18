@@ -1,10 +1,10 @@
 {
-  "name": "@rakibdev/material-colors",
+  "name": "m3-oklch",
   "version": "1.0.0",
   "description": "Material You color generator.",
+  "license": "MPL-2.0",
   "author": "https://github.com/rakibdev",
-  "repository": "https://github.com/rakibdev/material-colors.git",
-  "publishConfig": { "registry": "https://npm.pkg.github.com" },
+  "repository": "https://github.com/rakibdev/m3-oklch.git",
   "files": [
     "build"
   ],
@@ -18,8 +18,7 @@
   "scripts": {
     "build": "bun build:src && bun build:types",
     "build:src": "bun build ./typescript/main.ts --outdir ./build --minify",
-    "build:types": "tsc --project ./tsconfig.types.json",
-    "release": "bun run build && bun publish"
+    "build:types": "tsc --project ./tsconfig.types.json"
   },
   "devDependencies": {
     "@types/bun": "^1.2.15",
