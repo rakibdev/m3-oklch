@@ -7,7 +7,7 @@ I'm using this in a UI library, neovim/vscode themes, and userscripts.
 **HCT**
 ![HCT](assets/hct.png)
 
-**OKLCH
+**OKLCH**
 ![OKLCH](assets/oklch.png)
 
 ## Installation
