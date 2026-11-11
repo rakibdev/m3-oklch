@@ -1,7 +1,14 @@
 HCT (used by Material You) is computationally expensive and not natively supported in browsers.
-I used OKLCH to produce visually equivalent colors.<br>
-And I find Material 3 color tokens overwhelming. This uses way fewer tokens similar to shadcn.<br>
+I used OKLCH to produce visually equivalent colors, with zero dependencies.<br>
+Material 3's color tokens are overwhelming. This uses shadcn's small set instead.<br>
+Material 3 also looks too colorful. This is calmer.<br>
 I'm using this in a UI library, neovim/vscode themes, and userscripts.
+
+**HCT**
+![HCT](assets/hct.png)
+
+**OKLCH (this)**
+![OKLCH](assets/oklch.png)
 
 ## Installation
 

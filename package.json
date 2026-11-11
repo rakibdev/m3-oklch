@@ -21,7 +21,9 @@
     "build:types": "tsc --project ./tsconfig.types.json"
   },
   "devDependencies": {
+    "@material/material-color-utilities": "^0.4.0",
     "@types/bun": "^1.2.15",
+    "playwright-core": "^1.65.0",
     "typescript": "^5.8.3"
   }
 }
