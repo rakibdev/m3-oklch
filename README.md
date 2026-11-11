@@ -4,11 +4,11 @@ Material 3's color tokens are overwhelming. This uses shadcn's small set instead
 Also looks too colorful. This is calmer.<br>
 I'm using this in a UI library, neovim/vscode themes, and userscripts.
 
-**HCT**
-![HCT](assets/hct.png)
+**Material You**
+![Material You](assets/hct.png)
 
-**OKLCH**
-![OKLCH](assets/oklch.png)
+**This**
+![This](assets/oklch.png)
 
 ## Installation
 
